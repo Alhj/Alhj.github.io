@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Tankar om css"
+date:   2017-11-10 06:15:56 -0600
+categories: jekyll update
+---
+
+vad tycker du om scss istället för css? 
+att det kan vara lättare att kunna ha flera som är kopplade till samma än med samma css,
+då man kan ge namn på dom som variabler som just där ska vara lättare att använda på flera ställen, 
+så koden inte blir upprepen. 
+
+Jag använder SCSS för minna sidor. 
+
+Det kan vara lättare att använda i hel helt istället för vanlig css för man kan göra variabler så man kan koppla till flera ställen i css istället för på varje så skriver man bara samma namn på alla.
+
+Men det kan bli problem om flera försöker komma in på samma ställen så kan det bli överbelastining för databasen och detta kan göra att allt går långsamare att lada eller kan det krassa. 
