@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Tankar om css"
+date:   2017-11-12 06:15:56 -0600
+categories: jekyll update
+---
+
+Varför det kan vara bra med statiska sidor? 
+
+Det kan vara bra för att det är sidor som inte beöhver uppdateras ofta och det kan också gå snabbare att ladda när flera personer försöker komma in på sidan för det är inte någon extra databass som behövs. 
