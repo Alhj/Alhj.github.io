@@ -7,4 +7,4 @@ categories: jekyll update
 
 Vad är open grafh och hur använder jag det? 
 
-Open grafh är ett verktyg som gör att det hemsidor vissas upp med vad man har skrvit in i headen, 
+Open grafh är ett verktyg som gör att det hemsidor vissas upp med vad man har skrvit in i headen. Man kan använda det för att det ska bli lättare att kunna se vad som finns på hemsidan när man skickar medalanden kommer denna information med så man vet vad det är.  
