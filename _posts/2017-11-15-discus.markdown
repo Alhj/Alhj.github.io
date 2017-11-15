@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "discus"
+date:   2017-11-15 00:15:56 -0600
+categories: jekyll update
+---
+
+hur la du till kommentarar i posterna? 
+
+Jag la till discus i minn post html fill så att det kom med i varje post så att man inte behövde lägga det i varje post. 
+
+Jag gjorde en ny mapp i src som the  layout där jag gjorde en ny film med namet post som fanns i gems och koppiarade den för att få allt rätt, där jag sedan la till koden från discus efter följt guiden. 
